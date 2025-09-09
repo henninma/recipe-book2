@@ -7,6 +7,10 @@
 - red onions
 - chick peas
 - corn
+- paprika
+- oil & vineager
+- salt
+
 
 # Instructions
 Mix everything, enjoy!
